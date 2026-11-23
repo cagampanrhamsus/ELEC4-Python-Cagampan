@@ -1,3 +1,8 @@
+# Name: Cagampan, Rhamsus Joshua C.
+# Section: IV-BSIT C
+# Activity: P4 - Safe Menu Program
+# Date: November 23, 2026
+
 def divide_numbers():
     try:
         first_number = float(input("Enter the first number: "))
