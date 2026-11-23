@@ -1,3 +1,8 @@
+# Name: Cagampan, Rhamsus Joshua C.
+# Section: IV-BSIT C
+# Activity: P2 - Student Utilities Main Program
+# Date: November 23, 2026
+
 from datetime import datetime
 from student_utils import calculate_average, determine_pass_fail
 import student_utils

@@ -1,3 +1,8 @@
+# Name: Cagampan, Rhamsus Joshua C.
+# Section: IV-BSIT C
+# Activity: P2 - Student Utilities Module
+# Date: November 23, 2026
+
 """Reusable functions for working with student grades."""
 
 
