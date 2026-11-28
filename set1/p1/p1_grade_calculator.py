@@ -1,3 +1,8 @@
+# Name: Cagampan, Rhamsus Joshua C.
+# Section: IV-BSIT C
+# Activity: P1 - Student Grade Calculator
+# Date: November 23, 2026
+
 def accept_grades():
     """Ask the user for a set of grades and return them as numbers."""
     while True:

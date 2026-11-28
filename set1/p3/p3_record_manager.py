@@ -1,3 +1,8 @@
+# Name: Cagampan, Rhamsus Joshua C.
+# Section: IV-BSIT C
+# Activity: P3 - Student Record Manager
+# Date: November 23, 2026
+
 def add_student(students, student_keys):
     name = input("Enter the student's name: ").strip()
     if not name:
